@@ -1,0 +1,12 @@
+19:42.12.749 TRACE LoggingFile -Trace message logged
+19:42.12.754 DEBUG LoggingFile -Debug message logged
+19:42.12.754 INFO  LoggingFile -Info message logged
+19:42.12.754 ERROR LoggingFile -Error message logged
+19:42.12.754 FATAL LoggingFile -Fatal message logged
+19:53.24.076 DEBUG LoggingFile -Debug message logged
+19:53.24.082 INFO  LoggingFile -Info message logged
+19:53.24.082 ERROR LoggingFile -Error message logged
+19:53.24.082 FATAL LoggingFile -Fatal message logged
+19:53.52.008 INFO  LoggingDemo -Info message logged
+19:53.52.012 ERROR LoggingDemo -Error message logged
+19:53.52.012 FATAL LoggingDemo -Fatal message logged
